@@ -1,0 +1,16 @@
+{
+  "name": "simulation",
+  "version": "1.0.0",
+  "description": "Simple simulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-pid-controller": "^1.0.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
